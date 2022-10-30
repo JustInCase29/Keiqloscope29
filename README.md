@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Frontier Wallet.
 - 🌱 I’m currently learning Java & Html.
 - 👯 I’m looking to collaborate on Youtube.
-- 🤔 I’m looking for help with Velocity x Documentation.
+- 🤔 I’m looking for help with Programming.
 - 💬 Ask me about Graphic Design or any tech related stuff.
 - 📫 How to reach me: Twitter - @bc_jstn
 - 😄 Pronouns: He/His
